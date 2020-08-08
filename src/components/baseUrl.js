@@ -1,0 +1,1 @@
+export const baseUrl='https://guarded-beach-33297.herokuapp.com/vote';
